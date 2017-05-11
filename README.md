@@ -1,3 +1,3 @@
 # Python Training
 
-[Python Training By Tutorialspoint](https://www.tutorialspoint.com/python)
+See more in [Python Training By Tutorialspoint](https://www.tutorialspoint.com/python)
